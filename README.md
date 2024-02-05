@@ -1,7 +1,9 @@
 Project Description: Alzheimer's Disease Detection from Brain MRI using Deep Learning with Original and GAN-Generated MRI Data
 
 Introduction:
-Alzheimer's disease is a progressive neurodegenerative disorder that affects millions of people worldwide. Early detection is crucial for timely intervention and treatment. This project focuses on leveraging deep learning, specifically Convolutional Neural Networks (CNNs), for the detection of Alzheimer's disease using brain MRI images. In addition to utilizing an original dataset, this project incorporates Generative Adversarial Networks (GANs) to generate synthetic MRI images, enhancing the diversity and size of the training dataset.
+- Alzheimer's disease is a progressive neurodegenerative disorder that affects millions of people worldwide.
+- Early detection is crucial for timely intervention and treatment. This project focuses on leveraging deep learning, specifically Convolutional Neural Networks (CNNs), for the detection of Alzheimer's disease using brain MRI images.
+- In addition to utilizing an original dataset, this project incorporates Generative Adversarial Networks (GANs) to generate synthetic MRI images, enhancing the diversity and size of the training dataset.
 
 STEPS INVOLVED:
 Dataset Acquisition and Preprocessing:
